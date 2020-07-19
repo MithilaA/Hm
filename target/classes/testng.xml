@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="HM Workflow Suite">
+
+<listeners>
+	<listener class-name="com.hm.reports.ExtentReportListner"/>
+</listeners>
+
+	<test name="HM Smoke test">
+		<classes>
+			<class name="com.hm.tests.HmIndexPageTests"></class>
+		<!--<class name="com.hm.tests.HomePageOnLoginTests"></class>-->
+			<!-- <class name="com.hm.tests.HmBaseTest"/> \-->
+		</classes>
+	</test>
+</suite> 
