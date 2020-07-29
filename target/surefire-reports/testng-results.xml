@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="HM Workflow Suite" duration-ms="23339" started-at="2020-07-18T23:36:40 IST" finished-at="2020-07-18T23:37:03 IST">
+  <suite name="HM Workflow Suite" duration-ms="27632" started-at="2020-07-19T19:40:37 IST" finished-at="2020-07-19T19:41:04 IST">
     <groups>
     </groups>
-    <test name="HM Smoke test" duration-ms="23339" started-at="2020-07-18T23:36:40 IST" finished-at="2020-07-18T23:37:03 IST">
+    <test name="HM Smoke test" duration-ms="27632" started-at="2020-07-19T19:40:37 IST" finished-at="2020-07-19T19:41:04 IST">
       <class name="com.hm.tests.HmIndexPageTests">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="setup" is-config="true" duration-ms="8215" started-at="2020-07-18T23:36:40 IST" finished-at="2020-07-18T23:36:48 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="setup" is-config="true" duration-ms="11757" started-at="2020-07-19T19:40:37 IST" finished-at="2020-07-19T19:40:48 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginWithValidCreds()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="loginWithValidCreds" duration-ms="5255" started-at="2020-07-18T23:36:48 IST" finished-at="2020-07-18T23:36:53 IST">
+        <test-method status="PASS" signature="loginWithValidCreds()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="loginWithValidCreds" duration-ms="5721" started-at="2020-07-19T19:40:48 IST" finished-at="2020-07-19T19:40:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginWithValidCreds -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="tearDown" is-config="true" duration-ms="967" started-at="2020-07-18T23:36:53 IST" finished-at="2020-07-18T23:36:54 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="tearDown" is-config="true" duration-ms="1223" started-at="2020-07-19T19:40:54 IST" finished-at="2020-07-19T19:40:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="setup" is-config="true" duration-ms="5758" started-at="2020-07-18T23:36:54 IST" finished-at="2020-07-18T23:37:00 IST">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="setup" is-config="true" duration-ms="6750" started-at="2020-07-19T19:40:55 IST" finished-at="2020-07-19T19:41:02 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="validateIfHmLogoIsPresent()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="validateIfHmLogoIsPresent" duration-ms="2266" started-at="2020-07-18T23:37:00 IST" finished-at="2020-07-18T23:37:02 IST">
+        <test-method status="PASS" signature="validateIfHmLogoIsPresent()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="validateIfHmLogoIsPresent" duration-ms="1091" started-at="2020-07-19T19:41:02 IST" finished-at="2020-07-19T19:41:03 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateIfHmLogoIsPresent -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="tearDown" is-config="true" duration-ms="822" started-at="2020-07-18T23:37:02 IST" finished-at="2020-07-18T23:37:03 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hm.tests.HmIndexPageTests@1dfe2924]" name="tearDown" is-config="true" duration-ms="1012" started-at="2020-07-19T19:41:03 IST" finished-at="2020-07-19T19:41:04 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
